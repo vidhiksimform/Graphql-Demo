@@ -28,3 +28,13 @@ To run locally :
  `nodemon start`
 
 # Screenshots
+
+![Screenshot from 2023-12-25 12-38-40](https://github.com/vidhiksimform/Graphql-Demo/assets/124234774/04d26101-b25b-41b1-95d7-11d94d73cad7)
+
+![Screenshot from 2023-12-25 13-10-15](https://github.com/vidhiksimform/Graphql-Demo/assets/124234774/1764b3c8-3d47-4338-9b24-35e8792c43b5)
+
+![Screenshot from 2023-12-25 13-10-35](https://github.com/vidhiksimform/Graphql-Demo/assets/124234774/bc713284-15b1-45ec-9f38-a9fb03979d05)
+
+![Screenshot from 2023-12-25 13-10-54](https://github.com/vidhiksimform/Graphql-Demo/assets/124234774/5c185761-f815-4eed-a5bd-5895f46c425e)
+
+
